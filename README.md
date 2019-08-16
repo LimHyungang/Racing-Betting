@@ -13,4 +13,4 @@
 > 4. 각 회차별 경주 결과를 txt파일로 저장하며 조회 또한 가능하다.
 
 ### UML Diagram
-![UML](./image/Racing&Betting - UML Diagram.JPG)
+![UML](./img/Racing&Betting - UML Diagram.JPG)
