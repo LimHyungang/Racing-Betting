@@ -11,3 +11,6 @@
 > 3. 도착지점은 100m로 지정하며 도착지점을 지나는 말이 발생하면 경주는 종료된다.
 
 > 4. 각 회차별 경주 결과를 txt파일로 저장하며 조회 또한 가능하다.
+
+### UML Diagram
+![UML](./Racing&Betting - UML Diagram.jpg)
